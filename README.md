@@ -66,6 +66,10 @@ Please read the [Contributing guide](./Contributing.md).
 - [banano.now](https://banano.how/) - A place to get help getting started.
 - [bananos!](https://banano.fun/) - Tailor-made Banano Memes.
 - [Banano section on publish0x](https://www.publish0x.com/banano)
+- [Nanoo Tools](https://nanoo.tools/) - have also Banano webtools
+  - [Account Generator](https://nanoo.tools/quick-banano-account) - Generate a BANANO account from seed
+  - [Public RPI API](https://nanoo.tools/bananode-api) - free bananode as-a-service for easy access to the BANANO network
+  - [Unit Converter](https://nanoo.tools/banano-units) - RAW to Banano and Banano to RAW conversions
 
 ## Client Libraries
 
@@ -105,10 +109,6 @@ Please read the [Contributing guide](./Contributing.md).
 
 ## Projects
 
-- [Nanoo Tools](https://nanoo.tools/) - have also Banano webtools
-  - [Account Generator](https://nanoo.tools/quick-banano-account) - Generate a BANANO account from seed
-  - [Public RPI API](https://nanoo.tools/bananode-api) - free bananode as-a-service for easy access to the BANANO network
-  - [Unit Converter](https://nanoo.tools/banano-units) - RAW to Banano and Banano to RAW conversions
 - [banano-work-server](https://github.com/BananoCoin/banano-work-server) - dedicated work server for the Banano cryptocurrency
 - [banano-vanity](https://github.com/BananoCoin/banano-vanity) - Generate a BANANO address with a prefix of your choice
 - [banano-cam](https://github.com/BananoCoin/banano-cam) - a no-sound camera, where any user can tip any other user
