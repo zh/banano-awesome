@@ -28,9 +28,9 @@ Please read the [Contributing guide](./Contributing.md).
 ## Resources
 
 - [Official Banano site](https://banano.cc/)
-- [Pfficial Banano Github repositories](https://github.com/BananoCoin)
+- [Official Banano Github repositories](https://github.com/BananoCoin)
 - [Nano currency RPC protocol docs](https://docs.nano.org/commands/rpc-protocol/) - can be used for Banano RPC too
-- [Banano Link collection](https://banano.now/links/)
+- [Banano Link collection](https://banano.how/links/)
 
 ## Wallets
 
