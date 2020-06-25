@@ -82,7 +82,6 @@ Please read the [Contributing guide](./Contributing.md).
 - [bananojs](https://github.com/BananoCoin/bananojs) - JavaScript utilities for the banano cryptocurrency
 - [banano-uri-generator](https://github.com/zh/banano-uri-generator) - a simple library for generating URIs for the Banano cryptocurrency
 - [banano-unit-converter](https://github.com/zh/banano-unit-converter) - a thoroughly-tested library for converting units of the Banano cryptocurrency
-- [banano-pay-button](https://github.com/zh/banano-pay-button) - Easy to implement Banano currency payments via QR code
 
 ### Python
 
@@ -114,6 +113,6 @@ Please read the [Contributing guide](./Contributing.md).
 - [banano-cam](https://github.com/BananoCoin/banano-cam) - a no-sound camera, where any user can tip any other user
 - [bananominer-watch](https://github.com/andrecrjr/bananominer-watch) - Chrome Browser Extension that shows you all the stats about your contributions to Banano
 - [blue-app-banano](https://github.com/coranos/blue-app-banano) - community edition of the Ledger Nano S app for the banano Cryptocoin (*seems a little old*)
-
+- [banano-pay-button](https://github.com/zh/banano-pay-button) - Easy to implement Banano currency payments via QR code
 
 ## Articles
