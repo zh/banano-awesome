@@ -53,8 +53,9 @@ Please read the [Contributing guide](./Contributing.md).
 ## Community
 
 - [Discord](http://chat.banano.cc/)
-- [Banano Redit](https://www.reddit.com/r/banano)
-- [Banano Jobs Redit](https://www.reddit.com/r/bananojobs)
+- [Banano Reddit](https://www.reddit.com/r/banano)
+- [Banano Jobs Reddit](https://www.reddit.com/r/bananojobs)
+- [Banano Market Reddit](https://www.reddit.com/r/bananomarket/)
 - [Twitter](https://twitter.com/bananocoin)
 - [Instagram](https://www.instagram.com/bananocurrency/)
 - [Telegram](https://t.me/banano_official)
