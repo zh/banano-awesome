@@ -16,7 +16,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [Ecosystem](#ecosystem)
 - [Client Libraries](#client-libraries)
   - [C/C++](#clang)
-  - [Javascript](#javascript)
+  - [JavaScript](#javascript)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Go language](#go-language)
@@ -28,9 +28,9 @@ Please read the [Contributing guide](./Contributing.md).
 ## Resources
 
 - [Official Banano site](https://banano.cc/)
-- [Official Banano Github repositories](https://github.com/BananoCoin)
+- [Official Banano GitHub repositories](https://github.com/BananoCoin)
 - [Nano currency RPC protocol docs](https://docs.nano.org/commands/rpc-protocol/) - can be used for Banano RPC too
-- [Banano Link collection](https://banano.how/links/)
+- [Banano Link collection](https://banano.now/links/)
 
 ## Wallets
 
@@ -46,7 +46,7 @@ Please read the [Contributing guide](./Contributing.md).
 
 ## Faucets
 
-- [Monkeytalks](https://monkeytalks.cc/) - An instant & self-sustaining faucet, combined with messaging.
+- [MonkeyTalks](https://monkeytalks.cc/) - An instant & self-sustaining faucet, combined with messaging.
 - [BANANO Miner](https://bananominer.com/) - Earn BANANO by contributing to medical research (Folding@HOME).
 - [PowerPlant](https://powerplant.banano.cc/) - Browser-based altcoin mining that pays rewards in BANANO
 - [BoomPoW](https://bpow.banano.cc/) - Provide Proof-of-Work (PoW) for apps & services and earn Banano.
@@ -61,11 +61,11 @@ Please read the [Contributing guide](./Contributing.md).
 - [Instagram](https://www.instagram.com/bananocurrency/)
 - [Telegram](https://t.me/banano_official)
 - [Facebook](https://www.facebook.com/bananocurrency/)
-
+- [The Daily Peel]( https://www.daily-peel.com/) - Magazine of the Banano community
 ## Ecosystem
 
 - [banano.bet](https://bananobet.com/) - Dice game for Banano (have also faucet).
-- [banano.now](https://banano.how/) - A place to get help getting started.
+- [banano.how](https://banano.how/) - A place to get help getting started.
 - [bananos!](https://banano.fun/) - Tailor-made Banano Memes.
 - [Banano section on publish0x](https://www.publish0x.com/banano)
 - [Nanoo Tools](https://nanoo.tools/) - have also Banano webtools
@@ -79,15 +79,15 @@ Please read the [Contributing guide](./Contributing.md).
 
 - [Banano node sources](https://github.com/BananoCoin/banano)
 
-### Javascript
+### JavaScript
 
-- [bananojs](https://github.com/BananoCoin/bananojs) - JavaScript utilities for the banano cryptocurrency
+- [bananojs](https://github.com/BananoCoin/bananojs) - JavaScript utilities for the Banano cryptocurrency
 - [banano-uri-generator](https://github.com/zh/banano-uri-generator) - a simple library for generating URIs for the Banano cryptocurrency
 - [banano-unit-converter](https://github.com/zh/banano-unit-converter) - a thoroughly-tested library for converting units of the Banano cryptocurrency
 
 ### Python
 
-- [BananoPy](https://github.com/Kirby1997/BananoPy) - **depricated**, use *bananopy* below
+- [BananoPy](https://github.com/Kirby1997/BananoPy) - **deprecated**, use *bananopy* below
 - [bananopy](https://github.com/milkyklim/bananopy) - a Python wrapper for Banano node communication.
 
 ### Ruby
@@ -105,7 +105,7 @@ Please read the [Contributing guide](./Contributing.md).
 ## Docker Images
 
 - [Official Banano node container](https://hub.docker.com/r/bananocoin/banano)
-- [bananominer](https://hub.docker.com/r/anzerr/bananominer) - easyer way to "mine" on a server with no gui
+- [bananominer](https://hub.docker.com/r/anzerr/bananominer) - easier way to "mine" on a server with no GUI
 - [BoomPoW docker image](https://hub.docker.com/r/bananocoin/boompow)
 
 ## Projects
@@ -113,7 +113,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [banano-work-server](https://github.com/BananoCoin/banano-work-server) - dedicated work server for the Banano cryptocurrency
 - [banano-vanity](https://github.com/BananoCoin/banano-vanity) - Generate a BANANO address with a prefix of your choice
 - [banano-cam](https://github.com/BananoCoin/banano-cam) - a no-sound camera, where any user can tip any other user
-- [bananominer-watch](https://github.com/andrecrjr/bananominer-watch) - Chrome Browser Extension that shows you all the stats about your contributions to Banano
+- [bananominer-watch](https://github.com/andrecrjr/bananominer-watch) - Chrome Browser Extension that shows you all the stats about your Folding@HOME contributions to the [Banano team]( https://stats.foldingathome.org/team/234980) 
 - [blue-app-banano](https://github.com/coranos/blue-app-banano) - community edition of the Ledger Nano S app for the banano Cryptocoin (*seems a little old*)
 - [banano-pay-button](https://github.com/zh/banano-pay-button) - Easy to implement Banano currency payments via QR code
 
