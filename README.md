@@ -73,6 +73,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [banano.bet](https://bananobet.com/) - Dice game for Banano (have also faucet).
 - [banano.how](https://banano.how/) - A place to get help getting started.
 - [bananos!](https://banano.fun/) - Tailor-made Banano Memes.
+- [monKey Generator](http://www.monkeygen.com/) - Generate a unique monkey avatar from a Banano public key
 - [Banano section on publish0x](https://www.publish0x.com/banano)
 - [Nanoo Tools](https://nanoo.tools/) - have also Banano webtools
   - [Account Generator](https://nanoo.tools/quick-banano-account) - Generate a BANANO account from seed
