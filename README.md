@@ -1,6 +1,6 @@
 # Awesome BANANO
 
-BANANO is a feeless, instant, rich in potassium cryptocurrency powered by DAG technology disrupting the meme economy. This repository trying to accumulate most useful BANANO currency related resources - documents, sites, projects etc. 
+BANANO is a feeless, instant, rich in potassium cryptocurrency powered by DAG technology disrupting the meme economy. This repository trying to accumulate most useful BANANO currency related resources - documents, sites, projects etc.
 
 ## Contributing
 
@@ -10,7 +10,6 @@ Please read the [Contributing guide](./Contributing.md).
 
 - [Resources](#resources)
 - [Wallets](#wallets)
-- [Vanity Address Generators](#vanity-address-generators)
 - [Block Explorers](#block-explorers)
 - [Faucets](#faucets)
 - [Community](#community)
@@ -20,9 +19,9 @@ Please read the [Contributing guide](./Contributing.md).
   - [Javascript](#javascript)
   - [Python](#python)
   - [Ruby](#ruby)
-  - [Go language](#golang)
+  - [Go language](#go-language)
   - [Java](#java)
-- [Docker Images](#docker)
+- [Docker Images](#docker-images)
 - [Projects](#projects)
 - [Articles](#articles)
 
@@ -84,7 +83,7 @@ Please read the [Contributing guide](./Contributing.md).
 ### Python
 
 - [BananoPy](https://github.com/Kirby1997/BananoPy) - **depricated**, use *bananopy* below
-- [bananopy](https://github.com/milkyklim/bananopy) - a Python wrapper for Banano node communication. 
+- [bananopy](https://github.com/milkyklim/bananopy) - a Python wrapper for Banano node communication.
 
 ### Ruby
 
