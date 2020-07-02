@@ -32,6 +32,8 @@ Please read the [Contributing guide](./Contributing.md).
 - [Official Banano GitHub repositories](https://github.com/BananoCoin)
 - [Nano currency RPC protocol docs](https://docs.nano.org/commands/rpc-protocol/) - can be used for Banano RPC too
 - [Banano Link collection](https://banano.now/links/)
+- [Banano Toolbox by Kirby](https://github.com/Kirby1997/Banano)
+
 
 ## Wallets
 
@@ -54,7 +56,19 @@ Please read the [Contributing guide](./Contributing.md).
 
 ## Exchanges
 
-- [Kuyumcu](https://banano.nano.trade/) - Nanano/Banano exchange
+- [ATAIX](https://ataix.com/)
+- [Atomars](https://atomars.com/refcode/howtobanano)
+- [BitMesh](https://bitmesh.com/)
+- [Citex.co.kr](https://www.citex.co.kr/)
+- [Gj.com](https://account.gj.com/)
+- [Kuyumcu](https://banano.nano.trade/) - Nanano/Banano swap service
+- [Mercatox](https://mercatox.com/)
+- [Qtrade.io](https://qtrade.io/)
+- [txbit.io](https://txbit.io/)
+- [unnamed.exchange/}(https://www.unnamed.exchange/)
+- [ViteX}](https://vitex.net/)
+- [Exchange hot wallet addresses](https://github.com/Kirby1997/Banano/blob/master/exchanges.txt)
+
 
 ## Community
 
