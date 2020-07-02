@@ -65,8 +65,8 @@ Please read the [Contributing guide](./Contributing.md).
 - [Mercatox](https://mercatox.com/)
 - [Qtrade.io](https://qtrade.io/)
 - [txbit.io](https://txbit.io/)
-- [unnamed.exchange/}(https://www.unnamed.exchange/)
-- [ViteX}](https://vitex.net/)
+- [unnamed.exchange](https://www.unnamed.exchange/)
+- [ViteX](https://vitex.net/)
 - [Exchange hot wallet addresses](https://github.com/Kirby1997/Banano/blob/master/exchanges.txt)
 
 
