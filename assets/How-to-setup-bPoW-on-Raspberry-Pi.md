@@ -53,9 +53,9 @@ nohup ./bin/arm/nano-work-server --cpu-threads 4 -l 127.0.0.1:7000 && ¥
 nohup python3 bpow_client.py --payout ban_###YOUR_ADDR_HERE### --work any --limit-logging
 ```
 
-* If you do it with `nohup` you can close your cmd oder powershell window
+* If you do it with `nohup` you can close your cmd order powershell window
 * if you want to monitor it at specific time, just delete `nohup` and start without it
-have fun ;)
 * Do not expect much from overclocking, it is not worth it
+* Just have fun ;)
 
 *Have a nice crypto mining!*
