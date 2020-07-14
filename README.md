@@ -35,6 +35,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [Banano Toolbox by Kirby](https://github.com/Kirby1997/Banano)
 - [How to setup bPoW on Raspberry Pi (by happy_haVoc)](./assets/How-to-setup-bPoW-on-Raspberry-Pi.md)
 
+
 ## Wallets
 
 - [Kalium](https://kalium.banano.cc/) - BANANO's official mobile wallet
@@ -65,8 +66,8 @@ Please read the [Contributing guide](./Contributing.md).
 - [Mercatox](https://mercatox.com/)
 - [Qtrade.io](https://qtrade.io/)
 - [txbit.io](https://txbit.io/)
-- [unnamed.exchange/}(https://www.unnamed.exchange/)
-- [ViteX}](https://vitex.net/)
+- [unnamed.exchange](https://www.unnamed.exchange/)
+- [ViteX](https://vitex.net/)
 - [Exchange hot wallet addresses](https://github.com/Kirby1997/Banano/blob/master/exchanges.txt)
 
 
