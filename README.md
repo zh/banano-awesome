@@ -129,6 +129,8 @@ Please read the [Contributing guide](./Contributing.md).
 - [Official Banano node container](https://hub.docker.com/r/bananocoin/banano)
 - [bananominer](https://hub.docker.com/r/anzerr/bananominer) - easier way to "mine" on a server with no GUI
 - [BoomPoW docker image](https://hub.docker.com/r/bananocoin/boompow)
+- [Another BoomPoW client image](https://hub.docker.com/r/pbuyle/bpow-client) - requires running a `nano-work-server` in another container or the host.
+- [nano-work-server image](https://hub.docker.com/r/pbuyle/nano-work-server) - with support for Nvidia GPU on Linux (using the `nvidia` tag)
 
 ## Projects
 
