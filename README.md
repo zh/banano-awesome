@@ -144,3 +144,4 @@ Please read the [Contributing guide](./Contributing.md).
 
 - [Break It Down: Citizen](https://www.daily-peel.com/post/break-it-down-citizen)
 - [Break It Down: Jungle Fanta](https://www.daily-peel.com/post/break-it-down-jungle-fanta)
+- [Start Transacting This Memecoin Cryptocurrency Without The Headache (feat. BANANO)](https://hackernoon.com/banano-teaches-you-about-cryptocurrencies-without-the-headache-ro492zm8)
