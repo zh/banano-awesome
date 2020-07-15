@@ -42,7 +42,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [BANANO Vault](https://vault.banano.cc/) - open source web wallet
 - [Pippin Developer Wallet](https://github.com/appditto/pippin_nano_wallet) - production-ready, high-performance developer wallet for Nano and BANANO
 - [Banano Wiki](https://github.com/BananoCoin/banano/wiki) - how to build and run Banano node etc.
-- [light-paperwallets](https://nanoo.tools/light-paperwallets) - Nano and Banano paper wallets generator
+- [Light Paper Wallets](https://nanoo.tools/light-paperwallets) - Nano and Banano paper wallets generator
 
 ## Block Explorers
 
@@ -134,7 +134,6 @@ Please read the [Contributing guide](./Contributing.md).
 
 ## Projects
 
-- [banano-work-server](https://github.com/BananoCoin/banano-work-server) - dedicated work server for the Banano cryptocurrency
 - [banano-vanity](https://github.com/BananoCoin/banano-vanity) - Generate a BANANO address with a prefix of your choice
 - [banano-cam](https://github.com/BananoCoin/banano-cam) - a no-sound camera, where any user can tip any other user
 - [bananominer-watch](https://github.com/andrecrjr/bananominer-watch) - Chrome Browser Extension that shows you all the stats about your Folding@HOME contributions to the [Banano team]( https://stats.foldingathome.org/team/234980)
