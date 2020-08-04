@@ -62,7 +62,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [BitMesh](https://bitmesh.com/)
 - [Citex.co.kr](https://www.citex.co.kr/)
 - [Gj.com](https://account.gj.com/)
-- [Kuyumcu](https://banano.nano.trade/) - Nanano/Banano swap service
+- [Kuyumcu](https://banano.nano.trade/) - Nano/Banano swap service
 - [Mercatox](https://mercatox.com/)
 - [Qtrade.io](https://qtrade.io/)
 - [txbit.io](https://txbit.io/)
