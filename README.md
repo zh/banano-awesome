@@ -33,8 +33,8 @@ Please read the [Contributing guide](./Contributing.md).
 - [Nano currency RPC protocol docs](https://docs.nano.org/commands/rpc-protocol/) - can be used for Banano RPC too
 - [Banano Link collection](https://banano.now/links/)
 - [Banano Toolbox by Kirby](https://github.com/Kirby1997/Banano)
-- [How to setup bPoW on Raspberry Pi (by happy_haVoc)](./assets/How-to-setup-bPoW-on-Raspberry-Pi.md)
-
+- [How to setup bPoW on Linux Mint (by drache)](./assets/How-to-setup-bPoW-on-LinuxMint.md)
+- [How to setup bPoW on Windows (by drache)](./assets/How-to-setup-bPoW-on-Windows.md)
 
 ## Wallets
 
