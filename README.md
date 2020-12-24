@@ -36,6 +36,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [How to setup bPoW on Raspberry Pi (by happy_haVoc)](./assets/How-to-setup-bPoW-on-Raspberry-Pi.md)
 - [How to setup bPoW on Linux Mint (by drache)](./assets/How-to-setup-bPoW-on-LinuxMint.md)
 - [How to setup bPoW on Windows (by drache)](./assets/How-to-setup-bPoW-on-Windows.md)
+- [How to setup bPoW on Heroku.md (by Randomblock1#8622](./assets/How-to-setup-bPoW-on-Heroku.md)
 
 ## Wallets
 
@@ -69,6 +70,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [txbit.io](https://txbit.io/)
 - [unnamed.exchange](https://www.unnamed.exchange/)
 - [ViteX](https://vitex.net/)
+- [Altilly](https://www.altilly.com/market/BAN_BTC)
 - [Exchange hot wallet addresses](https://github.com/Kirby1997/Banano/blob/master/exchanges.txt)
 
 
