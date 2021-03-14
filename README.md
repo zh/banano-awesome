@@ -142,6 +142,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [bananominer-watch](https://github.com/andrecrjr/bananominer-watch) - Chrome Browser Extension that shows you all the stats about your Folding@HOME contributions to the [Banano team]( https://stats.foldingathome.org/team/234980)
 - [blue-app-banano](https://github.com/coranos/blue-app-banano) - community edition of the Ledger Nano S app for the banano Cryptocoin (*seems a little old*)
 - [banano-pay-button](https://github.com/zh/banano-pay-button) - Easy to implement Banano currency payments via QR code
+- [VanityAddrGen](https://github.com/alexanderdna/VanityAddrGen) - Generate a BANANO address with a prefix or suffix of your choice using CPU and GPU
 
 ## Articles
 
