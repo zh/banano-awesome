@@ -139,7 +139,8 @@ Please read the [Contributing guide](./Contributing.md).
 
 - [banano-vanity](https://github.com/BananoCoin/banano-vanity) - Generate a BANANO address with a prefix of your choice
 - [banano-cam](https://github.com/BananoCoin/banano-cam) - a no-sound camera, where any user can tip any other user
-- [bananominer-watch](https://github.com/andrecrjr/bananominer-watch) - Chrome Browser Extension that shows you all the stats about your Folding@HOME contributions to the [Banano team]( https://stats.foldingathome.org/team/234980)
+- [bananominer-watch](https://github.com/andrecrjr/bananominer-watch) - Chrome Browser Extension that shows you all the stats about your Folding@HOME contributions to the [Banano team](https://stats.foldingathome.org/team/234980)
+- [BANANO - MonKey business card](https://github.com/ngc-corp/monKey-business-card) - Generates a business card with monkey from your banano address
 - [blue-app-banano](https://github.com/coranos/blue-app-banano) - community edition of the Ledger Nano S app for the banano Cryptocoin (*seems a little old*)
 - [banano-pay-button](https://github.com/zh/banano-pay-button) - Easy to implement Banano currency payments via QR code
 - [VanityAddrGen](https://github.com/alexanderdna/VanityAddrGen) - Generate a BANANO address with a prefix or suffix of your choice using CPU and GPU
