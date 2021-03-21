@@ -143,6 +143,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [BANANO - MonKey business card](https://github.com/ngc-corp/monKey-business-card) - Generates a business card with monkey from your banano address
 - [blue-app-banano](https://github.com/coranos/blue-app-banano) - community edition of the Ledger Nano S app for the banano Cryptocoin (*seems a little old*)
 - [banano-pay-button](https://github.com/zh/banano-pay-button) - Easy to implement Banano currency payments via QR code
+- [bpow stats viewer](https://bpowstats.netlify.app/) - Shows Bpow stats for a given BAN address
 - [VanityAddrGen](https://github.com/alexanderdna/VanityAddrGen) - Generate a BANANO address with a prefix or suffix of your choice using CPU and GPU
 
 ## Articles
