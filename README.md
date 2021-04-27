@@ -97,6 +97,7 @@ Please read the [Contributing guide](./Contributing.md).
   - [Account Generator](https://nanoo.tools/quick-banano-account) - Generate a BANANO account from seed
   - [Public RPI API](https://nanoo.tools/bananode-api) - free bananode as-a-service for easy access to the BANANO network
   - [Unit Converter](https://nanoo.tools/banano-units) - RAW to Banano and Banano to RAW conversions
+- [Public Banano Nodes](https://public.banano.live)
 
 ## Client Libraries
 
