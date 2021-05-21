@@ -58,21 +58,25 @@ Please read the [Contributing guide](./Contributing.md).
 - [BoomPoW](https://bpow.banano.cc/) - Provide Proof-of-Work (PoW) for apps & services and earn Banano.
 
 ## Exchanges
+### (Exchanges are roughly sorted by liquidity – highest first)
 
-- [ATAIX](https://ataix.com/)
-- [Atomars](https://atomars.com/refcode/howtobanano)
-- [BitMesh](https://bitmesh.com/)
-- [Citex.co.kr](https://www.citex.co.kr/)
-- [Gj.com](https://account.gj.com/)
+- [CoinEx](https://www.coinex.com/exchange/BAN-BTC) (trading pairs: BTC – USDT)
+- [Mercatox](https://mercatox.com/) (trading pairs: BTC – NANO) [(How-To)](https://howtobanano.info/how-to-trade-banano-on-mercatox-step-by-step-guide/)
+- [txbit.io](https://txbit.io/) (trading pairs: BTC – ETH – XLR – EUR – USD) [(How-To)](http://howtobanano.info/how-to-trade-banano-on-txbit-io-step-by-step-guide/)
+- [ViteX](https://vitex.net/) (trading pair: [ETH](https://x.vite.net/trade?symbol=BAN-000_ETH-000); vite app required for DEX usage: VITE bonus when using [this invite](https://growth.vite.net/share?inviteCode=1BjmXVTz&lang=en))
+- [Qtrade.io](https://qtrade.io/) (trading pair: BTC)
+- [unnamed.exchange](https://www.unnamed.exchange/) (trading pairs: BTC – ETH – LTC – UTIP – DOGE – WAVES – USDT)
+- [ATAIX](https://ataix.com/) (trading pairs: BTC – DOGE)
 - [Kuyumcu](https://banano.nano.trade/) - Nano/Banano swap service
-- [Mercatox](https://mercatox.com/)
-- [Qtrade.io](https://qtrade.io/)
-- [txbit.io](https://txbit.io/)
-- [unnamed.exchange](https://www.unnamed.exchange/)
-- [ViteX](https://vitex.net/)
-- [Altilly](https://www.altilly.com/market/BAN_BTC)
+- [Bnswap.xyz](https://bnswap.xyz/) (trading pair: NANO; atomic swap)
 - [Exchange hot wallet addresses](https://github.com/Kirby1997/Banano/blob/master/exchanges.txt)
 
+### Currently not recommended due to unclear situation or technical issues:
+
+- [Atomars](https://atomars.com/refcode/howtobanano)
+- [Citex.co.kr](https://www.citex.co.kr/)
+- [Gj.com](https://account.gj.com/)
+- Initially planned but probably not happening: [HitBTC.com (announcement/update)](https://twitter.com/hitbtc/status/1275034409654255616)
 
 ## Community
 
