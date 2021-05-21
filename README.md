@@ -58,17 +58,17 @@ Please read the [Contributing guide](./Contributing.md).
 - [BoomPoW](https://bpow.banano.cc/) - Provide Proof-of-Work (PoW) for apps & services and earn Banano.
 
 ## Exchanges
+### (Exchanges are roughly sorted by liquidity – highest first)
 
-- [Altilly](https://www.altilly.com/market/BAN_BTC)
-- [ATAIX](https://ataix.com/) (trading pairs: BTC – DOGE)
-- [Bnswap.xyz](https://bnswap.xyz/) (trading pair: NANO; atomic swap)
 - [CoinEx](https://www.coinex.com/exchange/BAN-BTC) (trading pairs: BTC – USDT)
-- [Kuyumcu](https://banano.nano.trade/) - Nano/Banano swap service
-- [Mercatox](https://mercatox.com/)  (trading pairs: BTC – NANO) [(How-To)](https://howtobanano.info/how-to-trade-banano-on-mercatox-step-by-step-guide/)
+- [Mercatox](https://mercatox.com/) (trading pairs: BTC – NANO) [(How-To)](https://howtobanano.info/how-to-trade-banano-on-mercatox-step-by-step-guide/)
+- [txbit.io](https://txbit.io/) (trading pairs: BTC – ETH – XLR – EUR – USD) [(How-To)](http://howtobanano.info/how-to-trade-banano-on-txbit-io-step-by-step-guide/)
+- [ViteX](https://vitex.net/) (trading pair: [ETH](https://x.vite.net/trade?symbol=BAN-000_ETH-000); vite app required for DEX usage: VITE bonus when using [this invite](https://growth.vite.net/share?inviteCode=1BjmXVTz&lang=en))
 - [Qtrade.io](https://qtrade.io/) (trading pair: BTC)
-- [txbit.io](https://txbit.io/)
 - [unnamed.exchange](https://www.unnamed.exchange/) (trading pairs: BTC – ETH – LTC – UTIP – DOGE – WAVES – USDT)
-- [ViteX](https://vitex.net/)
+- [ATAIX](https://ataix.com/) (trading pairs: BTC – DOGE)
+- [Kuyumcu](https://banano.nano.trade/) - Nano/Banano swap service
+- [Bnswap.xyz](https://bnswap.xyz/) (trading pair: NANO; atomic swap)
 - [Exchange hot wallet addresses](https://github.com/Kirby1997/Banano/blob/master/exchanges.txt)
 
 ### Currently not recommended due to unclear situation or technical issues:
