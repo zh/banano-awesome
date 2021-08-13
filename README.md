@@ -49,10 +49,16 @@ Please read the [Contributing guide](./Contributing.md).
 ## Block Explorers
 
 - [Official BANANO Network Explorer](https://creeper.banano.cc/)
+- [Yellow Spyglass](https://yellowspyglass.com/) - Community made Explorer, BAN Distribution Chart, Known Accounts and more
 
 ## Faucets
 
 - [MonkeyTalks](https://monkeytalks.cc/) - An instant & self-sustaining faucet, combined with messaging.
+- [BananoFaucet.cc](https://bananofaucet.cc/) - A reddit-powered faucet, claim once every 7 days.
+- [Prussia's Banano Faucet](https://faucet.prussia.dev/) - A simple faucet with 24h cooldown.
+- [JungleTV](https://jungletv.live/) - Receive BAN for watching youtube videos while chatting with other viewers. [(repo)](https://github.com/tnyim/jungletv)
+- [TNV Banano Faucet](https://banano-faucet.herokuapp.com/) - "Fill up your wallet every day".  A simple faucet with 24h cooldown.
+- [iMalFect's Banano Faucet](https://faucet.imalfect.xyz/) - Another faucet with 24h cooldown and additional "pool" functionality.
 - [BANANO Miner](https://bananominer.com/) - Earn BANANO by contributing to medical research (Folding@HOME).
 - [PowerPlant](https://powerplant.banano.cc/) - Browser-based altcoin mining that pays rewards in BANANO
 - [BoomPoW](https://bpow.banano.cc/) - Provide Proof-of-Work (PoW) for apps & services and earn Banano.
@@ -68,7 +74,8 @@ Please read the [Contributing guide](./Contributing.md).
 - [unnamed.exchange](https://www.unnamed.exchange/) (trading pairs: BTC – ETH – LTC – UTIP – DOGE – WAVES – USDT)
 - [ATAIX](https://ataix.com/) (trading pairs: BTC – DOGE)
 - [Kuyumcu](https://banano.nano.trade/) - Nano/Banano swap service
-- [Bnswap.xyz](https://bnswap.xyz/) (trading pair: NANO; atomic swap)
+- [Bnswap.xyz](https://bnswap.xyz/) (trading pair: NANO/BAN; atomic swap)
+- [JIT Swap](https://jitswap.com/) - JIT stands for Just In Time. It allows you to swap between NANO and BAN
 - [Exchange hot wallet addresses](https://github.com/Kirby1997/Banano/blob/master/exchanges.txt)
 
 ### Currently not recommended due to unclear situation or technical issues:
@@ -89,6 +96,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [Telegram](https://t.me/banano_official)
 - [Facebook](https://www.facebook.com/bananocurrency/)
 - [The Daily Peel]( https://www.daily-peel.com/) - Magazine of the Banano community
+- [Banano section on publish0x](https://www.publish0x.com/banano)
 
 ## Ecosystem
 
@@ -96,12 +104,13 @@ Please read the [Contributing guide](./Contributing.md).
 - [banano.how](https://banano.how/) - A place to get help getting started.
 - [bananos!](https://banano.fun/) - Tailor-made Banano Memes.
 - [monKey Generator](http://www.monkeygen.com/) - Generate a unique monkey avatar from a Banano public key
-- [Banano section on publish0x](https://www.publish0x.com/banano)
 - [Nanoo Tools](https://nanoo.tools/) - have also Banano webtools
   - [Account Generator](https://nanoo.tools/quick-banano-account) - Generate a BANANO account from seed
   - [Public RPI API](https://nanoo.tools/bananode-api) - free bananode as-a-service for easy access to the BANANO network
   - [Unit Converter](https://nanoo.tools/banano-units) - RAW to Banano and Banano to RAW conversions
 - [Public Banano Nodes](https://public.banano.live)
+- [nanners.cc/](https://nanners.cc/) - Site for F@H statistics, also has valuable link list to faucets and tools
+- 
 
 ## Client Libraries
 
