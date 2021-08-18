@@ -74,6 +74,8 @@ Please read the [Contributing guide](./Contributing.md).
 - [unnamed.exchange](https://www.unnamed.exchange/) (trading pairs: BTC – ETH – LTC – UTIP – DOGE – WAVES – USDT)
 - [ATAIX](https://ataix.com/) (trading pairs: BTC – DOGE)
 - [Kuyumcu](https://banano.nano.trade/) - Nano/Banano swap service
+- [ban.farm](https://ban.farm/) - Nano/Banano swap service
+- [banano.exchange/](https://banano.exchange/) - Nano/Banano swap service
 - [Bnswap.xyz](https://bnswap.xyz/) (trading pair: NANO/BAN; atomic swap)
 - [JIT Swap](https://jitswap.com/) - JIT stands for Just In Time. It allows you to swap between NANO and BAN
 - [Exchange hot wallet addresses](https://github.com/Kirby1997/Banano/blob/master/exchanges.txt)
@@ -110,7 +112,7 @@ Please read the [Contributing guide](./Contributing.md).
   - [Unit Converter](https://nanoo.tools/banano-units) - RAW to Banano and Banano to RAW conversions
 - [Public Banano Nodes](https://public.banano.live)
 - [nanners.cc/](https://nanners.cc/) - Site for F@H statistics, also has valuable link list to faucets and tools
-- 
+- [bananoprice.com](https://bananoprice.com/) - Banano/NANO swap price index, helps you to find the best rate to swap BAN/NANO
 
 ## Client Libraries
 
