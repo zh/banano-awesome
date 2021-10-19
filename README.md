@@ -58,7 +58,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [Prussia's Banano Faucet](https://faucet.prussia.dev/) - A simple faucet with 24h cooldown.
 - [JungleTV](https://jungletv.live/) - Receive BAN for watching youtube videos while chatting with other viewers. [(repo)](https://github.com/tnyim/jungletv)
 - [TNV Banano Faucet](https://banano-faucet.herokuapp.com/) - "Fill up your wallet every day".  A simple faucet with 24h cooldown.
-- [iMalFect's Banano Faucet](https://faucet.imalfect.xyz/) - Another faucet with 24h cooldown and additional "pool" functionality.
+- [iMalFect's Banano Faucet](https://getbanano.cc/) - Another faucet with 24h cooldown and additional "pool" functionality.
 - [BANANO Miner](https://bananominer.com/) - Earn BANANO by contributing to medical research (Folding@HOME).
 - [PowerPlant](https://powerplant.banano.cc/) - Browser-based altcoin mining that pays rewards in BANANO
 - [BoomPoW](https://bpow.banano.cc/) - Provide Proof-of-Work (PoW) for apps & services and earn Banano.
