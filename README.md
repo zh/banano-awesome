@@ -62,6 +62,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [BANANO Miner](https://bananominer.com/) - Earn BANANO by contributing to medical research (Folding@HOME).
 - [PowerPlant](https://powerplant.banano.cc/) - Browser-based altcoin mining that pays rewards in BANANO
 - [BoomPoW](https://bpow.banano.cc/) - Provide Proof-of-Work (PoW) for apps & services and earn Banano.
+- [ONLY-BANS.CC](https://www.only-bans.cc/) - Faucet by cosmic_banano and prussia_dev (OpenSource)
 
 ## Exchanges
 ### (Exchanges are roughly sorted by liquidity – highest first)
