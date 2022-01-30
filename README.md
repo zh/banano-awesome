@@ -49,20 +49,31 @@ Please read the [Contributing guide](./Contributing.md).
 ## Block Explorers
 
 - [Official BANANO Network Explorer](https://creeper.banano.cc/)
+- [BananoLooker](https://www.bananolooker.com/) - Block explorer based on nanolooker ([repo](https://github.com/running-coder/nanolooker))
 - [Yellow Spyglass](https://yellowspyglass.com/) - Community made Explorer, BAN Distribution Chart, Known Accounts and more
 
 ## Faucets
 
-- [MonkeyTalks](https://monkeytalks.cc/) - An instant & self-sustaining faucet, combined with messaging.
-- [BananoFaucet.cc](https://bananofaucet.cc/) - A reddit-powered faucet, claim once every 7 days.
-- [Prussia's Banano Faucet](https://faucet.prussia.dev/) - A simple faucet with 24h cooldown.
-- [JungleTV](https://jungletv.live/) - Receive BAN for watching youtube videos while chatting with other viewers. [(repo)](https://github.com/tnyim/jungletv)
-- [TNV Banano Faucet](https://banano-faucet.herokuapp.com/) - "Fill up your wallet every day".  A simple faucet with 24h cooldown.
-- [iMalFect's Banano Faucet](https://getbanano.cc/) - Another faucet with 24h cooldown and additional "pool" functionality.
 - [BANANO Miner](https://bananominer.com/) - Earn BANANO by contributing to medical research (Folding@HOME).
-- [PowerPlant](https://powerplant.banano.cc/) - Browser-based altcoin mining that pays rewards in BANANO
 - [BoomPoW](https://bpow.banano.cc/) - Provide Proof-of-Work (PoW) for apps & services and earn Banano.
-- [ONLY-BANS.CC](https://www.only-bans.cc/) - Faucet by cosmic_banano and prussia_dev (OpenSource)
+- [PowerPlant](https://powerplant.banano.cc/) - Browser-based altcoin mining that pays rewards in BANANO.
+- [BananoDrip Faucet](https://bananodrip.com/) - A friendly faucet. Resets at midnight (UTC).
+- [BananoFaucet.cc](https://bananofaucet.cc/) - A reddit-powered faucet, claim once every 7 days. Made by MiranDaniel.
+- [BananoPlanet.cc](https://bananoplanet.cc/faucet) - "Claim free $BANANO every 2 hours!"
+- [BananoTime!](https://faucet.bananotime.com/) - Daily claim. Guess a number for bonus banano. Based on Prussia's faucet
+- [BanBucket](https://www.banbucket.ninja/) - Faucet with cooldown timer and stats.
+- [Baucarp Banano Faucet](https://baucarp.herokuapp.com/) - Claim every 24h. Also has a small monkey game.
+- [Bonobo.cc Faucet](https://bonobo.cc/faucet) - Claim every 24h.
+- [Earns.cc Banano Faucet](https://ban.earns.cc/) - Clone of Prussia's faucet
+- [iMalFect's Banano Faucet](https://getbanano.cc/) - Another faucet with 24h cooldown and additional "pool" functionality.
+- [JungleTV](https://jungletv.live/) - Receive BAN for watching youtube videos while chatting with other viewers. [(repo)](https://github.com/tnyim/jungletv)
+- [K3i's Free Banano Faucet](https://bananofaucet.online/) - You can only use this faucet once every hour.
+- [MonkeyTalks](https://monkeytalks.cc/) - An instant & self-sustaining faucet, combined with messaging.
+- [Nord Banano Faucet](https://nord.valejo.net/) - 25% chance for bonus BAN! Max 1.5 bonus.
+- [ONLY-BANS.CC](https://www.only-bans.cc/) - Faucet by cosmic_banano and prussia_dev (OpenSource).
+- [Prussia's Banano Faucet](https://faucet.prussia.dev/) - A simple faucet with 24h cooldown.
+- [TNV Banano Faucet](https://banano-faucet.herokuapp.com/) - "Fill up your wallet every day".  A simple faucet with 24h cooldown.
+
 
 ## Exchanges
 ### (Exchanges are roughly sorted by liquidity – highest first)
@@ -162,6 +173,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [banano-pay-button](https://github.com/zh/banano-pay-button) - Easy to implement Banano currency payments via QR code
 - [bpow stats viewer](https://bpowstats.netlify.app/) - Shows Bpow stats for a given BAN address
 - [VanityAddrGen](https://github.com/alexanderdna/VanityAddrGen) - Generate a BANANO address with a prefix or suffix of your choice using CPU and GPU
+- [JungleTV](https://github.com/tnyim/jungletv) - Repo of the JungleTV project
 
 ## Articles
 
