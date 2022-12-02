@@ -162,6 +162,7 @@ Please read the [Contributing guide](./Contributing.md).
 
 - [BananoPy](https://github.com/Kirby1997/BananoPy) - **deprecated**, use *bananopy* below
 - [bananopy](https://github.com/milkyklim/bananopy) - a Python wrapper for Banano node communication.
+- [bananopie](https://github.com/jetstream0/bananopie) - Python utilities for the Banano cryptocurrency (inspired by bananojs)
 
 ### Ruby
 
