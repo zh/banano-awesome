@@ -56,8 +56,8 @@ Please read the [Contributing guide](./Contributing.md).
 
 - [Official BANANO Network Explorer](https://creeper.banano.cc/)
 - [Bananode.eu BananoCreeper](https://creeper.bananode.eu/)
-- [BananoLooker](https://www.bananolooker.com/) - Block explorer based on nanolooker ([repo](https://github.com/running-coder/nanolooker)).
-- [Yellow Spyglass](https://yellowspyglass.com/) - Community made Explorer, BAN Distribution Chart, Known Accounts and more.
+- [BananoLooker](https://www.bananolooker.com/) - Block explorer based on NanoLooker ([repo](https://github.com/running-coder/nanolooker/tree/bananolooker)).
+- [Moonano](https://moonano.net/) - Community-made Explorer, BAN Distribution Chart, ledgerfile snapshots and more.
 
 ## Faucets
 
@@ -89,7 +89,8 @@ Please read the [Contributing guide](./Contributing.md).
 - [Prussia's Banano Faucet](https://faucet.prussia.dev/) - A simple faucet with 24h cooldown.
 - [TNV Banano Faucet](https://banano-faucet.herokuapp.com/) - "Fill up your wallet every day".  A simple faucet with 24h cooldown.
 - [Try Banano!](https://trybanano.com/)
-
+- [Banano Forager](https://banano.pictures/)
+- 
 
 ## Exchanges
 ### (Exchanges are roughly sorted by liquidity – highest first)
@@ -104,7 +105,6 @@ Please read the [Contributing guide](./Contributing.md).
 - [Kuyumcu](https://banano.trade/) - Nano/Banano and Moon/Banano swap service.
 - [ban.farm](https://ban.farm/) - Nano/Banano swap service.
 - [Nanswap](https://nanswap.com/) - Nano/Banano swap service.
-- [Bnswap.xyz](https://bnswap.xyz/) (trading pair: XNO/BAN; atomic swap).
 - [JIT Swap](https://jitswap.com/) - JIT stands for "Just In Time". It allows you to swap between XNO and BAN.
 - [Exchange hot wallet addresses](https://github.com/Kirby1997/Banano/blob/master/exchanges.txt).
 
@@ -154,18 +154,19 @@ Please read the [Contributing guide](./Contributing.md).
 
 ### JavaScript
 
-- [bananojs](https://github.com/BananoCoin/bananojs) - JavaScript utilities for the Banano cryptocurrency
-- [banano-uri-generator](https://github.com/zh/banano-uri-generator) - a simple library for generating URIs for the Banano cryptocurrency
-- [banano-unit-converter](https://github.com/zh/banano-unit-converter) - a thoroughly-tested library for converting units of the Banano cryptocurrency
+- [bananojs](https://github.com/BananoCoin/bananojs) - JavaScript utilities for the Banano cryptocurrency.
+- [banano-uri-generator](https://github.com/zh/banano-uri-generator) - a simple library for generating URIs for the Banano cryptocurrency.
+- [banano-unit-converter](https://github.com/zh/banano-unit-converter) - a thoroughly-tested library for converting units of the Banano cryptocurrency.
 
 ### Python
 
 - [BananoPy](https://github.com/Kirby1997/BananoPy) - **deprecated**, use *bananopy* below
 - [bananopy](https://github.com/milkyklim/bananopy) - a Python wrapper for Banano node communication.
+- [Bananopie](https://github.com/jetstream0/bananopie) - a python library for Banano. Not just a RPC wrapper! 
 
 ### Ruby
 
-- [banano.rb](https://github.com/zh/rbanano) - Banano currency ruby gem
+- [banano.rb](https://github.com/zh/rbanano) - Banano currency ruby gem.
 
 ### Go language
 
@@ -173,15 +174,15 @@ Please read the [Contributing guide](./Contributing.md).
 
 ### Java
 
-- [BananoCraft](https://github.com/Kirby1997/BananoCraft) - Banano implementation for Minecraft
+- [BananoCraft](https://github.com/Kirby1997/BananoCraft) - Banano implementation for Minecraft.
 
 ## Docker Images
 
 - [Official Banano node container](https://hub.docker.com/r/bananocoin/banano)
-- [bananominer](https://hub.docker.com/r/anzerr/bananominer) - Easier way to "mine" on a server with no GUI
+- [bananominer](https://hub.docker.com/r/anzerr/bananominer) - Easier way to "mine" on a server with no GUI.
 - [BoomPoW docker image](https://hub.docker.com/r/bananocoin/boompow)
 - [Another BoomPoW client image](https://hub.docker.com/r/pbuyle/bpow-client) - Requires running a `nano-work-server` in another container or the host.
-- [nano-work-server image](https://hub.docker.com/r/pbuyle/nano-work-server) - With support for Nvidia GPU on Linux (using the `nvidia` tag)
+- [nano-work-server image](https://hub.docker.com/r/pbuyle/nano-work-server) - With support for Nvidia GPU on Linux (using the `nvidia` tag).
 
 ## Projects
 
