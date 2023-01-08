@@ -1,6 +1,6 @@
 # Awesome BANANO
 
-BANANO is a feeless, instant, rich in potassium cryptocurrency powered by DAG technology disrupting the meme economy. This repository trying to accumulate most useful BANANO currency related resources - documents, sites, projects etc.
+BANANO is a feeless, instant, rich in potassium cryptocurrency powered by DAG technology disrupting the meme economy. This repository is trying to accumulate most useful BANANO currency related resources - documents, sites, projects, etc.
 
 ## Contributing
 
@@ -30,7 +30,7 @@ Please read the [Contributing guide](./Contributing.md).
 
 - [Official Banano site](https://banano.cc/)
 - [Official Banano GitHub repositories](https://github.com/BananoCoin)
-- [Nano currency RPC protocol docs](https://docs.nano.org/commands/rpc-protocol/) - Can be used for Banano RPC too.
+- [Nano currency RPC protocol docs](https://docs.nano.org/commands/rpc-protocol/) - can be used for Banano RPC too.
 - [Banano Link collection](https://banano.now/links/)
 - [Banano Toolbox by Kirby](https://github.com/Kirby1997/Banano)
 - [How to setup bPoW on Raspberry Pi (by happy_haVoc)](./assets/How-to-setup-bPoW-on-Raspberry-Pi.md)
@@ -39,7 +39,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [How to setup bPoW on Heroku.md (by Randomblock1#8622](./assets/How-to-setup-bPoW-on-Heroku.md)
 - [Banano Wiki](https://banano.fandom.com/)
 - [wBAN GitBook](https://wrap-that-potassium.gitbook.io/wban/)
-- [BANANO HUB](https://hellomokuzai.github.io/banano-hub/) - Information and links on Banano.
+- [BANANO HUB](https://hellomokuzai.github.io/banano-hub/) - information and links on Banano.
 
 ## Wallets
 
@@ -73,9 +73,11 @@ Please read the [Contributing guide](./Contributing.md).
 - [Baucarp Banano Faucet](https://baucarp.herokuapp.com/) - Claim every 24h. Also has a small monkey game.
 - [Bonobo.cc Faucet](https://bonobo.cc/faucet) - Claim every 24h.
 - [Banano Forest Faucet](https://faucet.bananoforest.com/)
+- [Banano Forager](https://banano.pictures/)
+- [Banoboto's Future Faucet](https://faucet.banoboto.repl.co/)
 - [Barrel O' Bananos](https://www.devinmontes.com/) - Smart faucet at the bottom of the webpage.
 - [CSquared's Banano Dispensary](https://getban.csquared.nz/)
-- [Earns.cc Banano Faucet](https://ban.earns.cc/) - Clone of Prussia's faucet.
+- [EARNS.CC Banano Faucet](https://ban.earns.cc/) - Clone of Prussia's faucet.
 - [GoBanano](https://gobanano.com/)
 - [Gorilla Nation](https://gorillanation.ga/)
 - [i can haz nano](https://icanhaznano.monke42.tk/)
@@ -86,17 +88,19 @@ Please read the [Contributing guide](./Contributing.md).
 - [MonkeyTalks](https://monkeytalks.cc/) - An instant & self-sustaining faucet, combined with messaging.
 - [Nord Banano Faucet](https://nord.valejo.net/) - 25% chance for bonus BAN! Max 1.5 bonus.
 - [ONLY-BANS.CC](https://www.only-bans.cc/) - Faucet by cosmic_banano and prussia_dev (OpenSource).
+- [Pronoun Faucet](https://banpridefaucet.repl.co/)
 - [Prussia's Banano Faucet](https://faucet.prussia.dev/) - A simple faucet with 24h cooldown.
 - [TNV Banano Faucet](https://banano-faucet.herokuapp.com/) - "Fill up your wallet every day".  A simple faucet with 24h cooldown.
 - [Try Banano!](https://trybanano.com/)
-- [Banano Forager](https://banano.pictures/)
-- 
+- [Yet Another BAN Faucet](
 
 ## Exchanges
 ### (Exchanges are roughly sorted by liquidity – highest first)
 
 - [CoinEx](https://www.coinex.com/exchange/BAN-BTC) (trading pairs: BTC – USDT).
 - [Mercatox](https://mercatox.com/) (trading pairs: BTC – NANO) [(How-To)](https://howtobanano.info/how-to-trade-banano-on-mercatox-step-by-step-guide/).
+- [xGO](https://xgo.com/ban-to-usdt)
+- [HitBTC](https://hitbtc.com/ban-to-usdt)
 - [txbit.io](https://txbit.io/) (trading pairs: BTC – ETH – XLR – EUR – USD) [(How-To)](http://howtobanano.info/how-to-trade-banano-on-txbit-io-step-by-step-guide/).
 - [ViteX](https://vitex.net/) (trading pair: [ETH](https://x.vite.net/trade?symbol=BAN-000_ETH-000); vite app required for DEX usage: VITE bonus when using [this invite](https://growth.vite.net/share?inviteCode=1BjmXVTz&lang=en)).
 - [Qtrade.io](https://qtrade.io/) (trading pair: BTC).
@@ -105,7 +109,6 @@ Please read the [Contributing guide](./Contributing.md).
 - [Kuyumcu](https://banano.trade/) - Nano/Banano and Moon/Banano swap service.
 - [ban.farm](https://ban.farm/) - Nano/Banano swap service.
 - [Nanswap](https://nanswap.com/) - Nano/Banano swap service.
-- [JIT Swap](https://jitswap.com/) - JIT stands for "Just In Time". It allows you to swap between XNO and BAN.
 - [Exchange hot wallet addresses](https://github.com/Kirby1997/Banano/blob/master/exchanges.txt).
 
 ### Currently not recommended due to unclear situation or technical issues:
@@ -179,24 +182,26 @@ Please read the [Contributing guide](./Contributing.md).
 ## Docker Images
 
 - [Official Banano node container](https://hub.docker.com/r/bananocoin/banano)
-- [bananominer](https://hub.docker.com/r/anzerr/bananominer) - Easier way to "mine" on a server with no GUI.
+- [bananominer](https://hub.docker.com/r/anzerr/bananominer) - easier way to "mine" on a server with no GUI.
 - [BoomPoW docker image](https://hub.docker.com/r/bananocoin/boompow)
-- [Another BoomPoW client image](https://hub.docker.com/r/pbuyle/bpow-client) - Requires running a `nano-work-server` in another container or the host.
-- [nano-work-server image](https://hub.docker.com/r/pbuyle/nano-work-server) - With support for Nvidia GPU on Linux (using the `nvidia` tag).
+- [Another BoomPoW client image](https://hub.docker.com/r/pbuyle/bpow-client) - requires running a `nano-work-server` in another container or the host.
+- [nano-work-server image](https://hub.docker.com/r/pbuyle/nano-work-server) - with support for Nvidia GPU on Linux (using the `nvidia` tag).
+- [Banano Node Docker](https://github.com/amamel/banano-node-docker) - setup a fully automated Banano cryptocurrency node as part of a dockerized stack with fast-syncing and easy SSL support. 
 
 ## Projects
 
-- [banano-vanity](https://github.com/BananoCoin/banano-vanity) - Generate a Banano address with a prefix of your choice.
+- [banano-vanity](https://github.com/BananoCoin/banano-vanity) - generate a Banano address with a prefix of your choice.
 - [banano-cam](https://github.com/BananoCoin/banano-cam) - A no-sound camera, where any user can tip any other user.
 - [bananominer-watch](https://github.com/andrecrjr/bananominer-watch) - Chrome Browser Extension that shows you all the stats about your Folding@HOME contributions to the [Banano team](https://stats.foldingathome.org/team/234980).
 - [BANANO - MonKey business card](https://github.com/ngc-corp/monKey-business-card) - Generates a business card with monkey from your banano address.
 - [blue-app-banano](https://github.com/coranos/blue-app-banano) - community edition of the Ledger Nano S app for the banano Cryptocoin (*seems a little old*).
-- [banano-pay-button](https://github.com/zh/banano-pay-button) - Easy to implement Banano currency payments via QR code.
-- [BOOMPoW Stats](https://bpowstats.netlify.app/) - Shows Bpow stats for a given BAN address.
-- [VanityAddrGen](https://github.com/alexanderdna/VanityAddrGen) - Generate a BANANO address with a prefix or suffix of your choice using CPU and GPU.
-- [JungleTV](https://github.com/tnyim/jungletv) - Repo of the JungleTV project.
-- [legion-van](https://github.com/steampoweredtaco/legion-van) - Generate a Banano address with a monKey of your choice in a terminal.
-- [Vanity MonKey Generator](https://github.com/altugbakan/vanity-monkey-generator) - Generate a Banano address with a monKey of your choice.
+- [banano-pay-button](https://github.com/zh/banano-pay-button) - aasy to implement Banano currency payments via QR code.
+- [BOOMPoW Stats](https://bpowstats.netlify.app/) - shows Bpow stats for a given BAN address.
+- [JungleTV](https://github.com/tnyim/jungletv) - repo of the JungleTV project.
+- [legion-van](https://github.com/steampoweredtaco/legion-van) - generate a Banano address with a monKey of your choice in a terminal.
+- [nanners.cc](https://nanners.cc/) - bananominer × folding@home statistics report - featuring previous payouts, pending points and work units, csv export and more!
+- [VanityAddrGen](https://github.com/alexanderdna/VanityAddrGen) - generate a BANANO address with a prefix or suffix of your choice using CPU and GPU.
+- [Vanity MonKey Generator](https://github.com/altugbakan/vanity-monkey-generator) - generate a Banano address with a monKey of your choice.
 
 ## Articles
 
