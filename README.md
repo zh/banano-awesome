@@ -77,7 +77,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [CSquared's Banano Dispensary](https://getban.csquared.nz/)
 - [Earns.cc Banano Faucet](https://ban.earns.cc/) - Clone of Prussia's faucet.
 - [GoBanano](https://gobanano.com/)
-- [Gorilla Nation](https://gorillanation.ga/)
+- [Gorilla Nation](https://gorillanation.cc/)
 - [i can haz nano](https://icanhaznano.monke42.tk/)
 - [iMalFect's Banano Faucet](https://getbanano.cc/) - Another faucet with 24h cooldown and additional "pool" functionality.
 - [JungleTV](https://jungletv.live/) - Receive BAN for watching YouTube videos while chatting with other viewers. [(repo)](https://github.com/tnyim/jungletv).
