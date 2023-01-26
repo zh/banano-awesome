@@ -165,7 +165,7 @@ Please read the [Contributing guide](./Contributing.md).
 
 - [BananoPy](https://github.com/Kirby1997/BananoPy) - **deprecated**, use *bananopy* below
 - [bananopy](https://github.com/milkyklim/bananopy) - a Python wrapper for Banano node communication.
-- [Bananopie](https://github.com/jetstream0/bananopie) - a python library for Banano. Not just a RPC wrapper! 
+- [Bananopie](https://github.com/jetstream0/bananopie) - a python library for Banano. Not just a RPC wrapper!
 
 ### Ruby
 
