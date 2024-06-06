@@ -196,6 +196,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [BANANO - MonKey business card](https://github.com/ngc-corp/monKey-business-card) - Generates a business card with monkey from your banano address.
 - [blue-app-banano](https://github.com/coranos/blue-app-banano) - community edition of the Ledger Nano S app for the banano Cryptocoin (*seems a little old*).
 - [banano-pay-button](https://github.com/zh/banano-pay-button) - aasy to implement Banano currency payments via QR code.
+- [BananoQR](https://github.com/JulsKawa/BananoQR) - A banano qr code generator in Rust
 - [BOOMPoW Stats](https://bpowstats.netlify.app/) - shows Bpow stats for a given BAN address.
 - [JungleTV](https://github.com/tnyim/jungletv) - repo of the JungleTV project.
 - [legion-van](https://github.com/steampoweredtaco/legion-van) - generate a Banano address with a monKey of your choice in a terminal.
