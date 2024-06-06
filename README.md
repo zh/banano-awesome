@@ -158,6 +158,7 @@ Please read the [Contributing guide](./Contributing.md).
 ### JavaScript
 
 - [bananojs](https://github.com/BananoCoin/bananojs) - JavaScript utilities for the Banano cryptocurrency.
+- [banani](https://github.com/stjet/banani) - A library for Banano written in TypeScript.
 - [banano-uri-generator](https://github.com/zh/banano-uri-generator) - a simple library for generating URIs for the Banano cryptocurrency.
 - [banano-unit-converter](https://github.com/zh/banano-unit-converter) - a thoroughly-tested library for converting units of the Banano cryptocurrency.
 
