@@ -93,6 +93,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [MonkeyTalks](https://monkeytalks.cc/) - An instant & self-sustaining faucet, combined with messaging.
 - [Nord Banano Faucet](https://nord.valejo.net/) - 25% chance for bonus BAN! Max 1.5 bonus.
 - [ONLY-BANS.CC](https://www.only-bans.cc/) - Faucet by cosmic_banano and prussia_dev (OpenSource).
+- [Pay2Slay](https://pay2slay.cc) - Play Fortnite Get Banano
 - [Pronoun Faucet](https://banpridefaucet.repl.co/)
 - [Prussia's Banano Faucet](https://faucet.prussia.dev/) - A simple faucet with 24h cooldown.
 - [TNV Banano Faucet](https://banano-faucet.herokuapp.com/) - "Fill up your wallet every day".  A simple faucet with 24h cooldown.
