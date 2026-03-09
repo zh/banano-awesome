@@ -43,14 +43,18 @@ Please read the [Contributing guide](./Contributing.md).
 
 ## Wallets
 
-- [Kalium](https://kalium.banano.cc/) - Banano's official mobile wallet.
-- [BANANO Vault](https://vault.banano.cc/) - Open-source web wallet.
-- [The Banano Stand](https://thebananostand.com/) - Open-source web wallet supporting hardware wallet.
-- [Nault](https://banano.nault.cc/) - An instance of Nault wallet for Banano (unstable).
-- [jungleVault](https://github.com/Kaffidev/jungleVault) - A browser extension.
-- [Pippin Developer Wallet](https://github.com/appditto/pippin_nano_wallet) - Production-ready, high-performance developer wallet for Nano and Banano.
 - [Banano Wiki](https://github.com/BananoCoin/banano/wiki) - How to build and run Banano node etc.
+- [dagchat](https://github.com/derfarctor/dagchat) - Open-source TUI desktop wallet.
+- [jungleVault](https://github.com/Kaffidev/jungleVault) - A browser extension.
+- [Kalium](https://kalium.banano.cc/) - Banano's official mobile wallet.
 - [Light Paper Wallets](https://nanoo.tools/light-paperwallets) - Nano and Banano paper wallets generator.
+- [MonkeyMask](https://www.monkeymask.cc/) - Modern browser extension wallet.
+- [Nault](https://banano.nault.cc/) - An instance of Nault wallet for Banano (unstable).
+- [Pippin Developer Wallet](https://github.com/appditto/pippin_nano_wallet) - Production-ready, high-performance developer wallet for Nano and Banano.
+- [Potassius](https://github.com/perishllc/potassius) - Potassium Rich BANANO Wallet 
+- [Stack Wallet](https://github.com/cypherstack/stack_wallet) - Open-source mobile wallet supporting multiple currencies.
+- [The Banano Stand](https://thebananostand.com/) - Open-source web wallet supporting hardware wallet.
+
 
 ## Block Explorers
 
@@ -58,6 +62,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [Bananode.eu BananoCreeper](https://creeper.bananode.eu/)
 - [BananoLooker](https://www.bananolooker.com/) - Block explorer based on NanoLooker ([repo](https://github.com/running-coder/nanolooker/tree/bananolooker)).
 - [Moonano](https://moonano.net/) - Community-made Explorer, BAN Distribution Chart, ledgerfile snapshots and more.
+- [Nanexplorer](https://nanexplorer.com/banano) - Explorer powered by Nanswap.
 
 ## Faucets
 
@@ -92,7 +97,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [Prussia's Banano Faucet](https://faucet.prussia.dev/) - A simple faucet with 24h cooldown.
 - [TNV Banano Faucet](https://banano-faucet.herokuapp.com/) - "Fill up your wallet every day".  A simple faucet with 24h cooldown.
 - [Try Banano!](https://trybanano.com/)
-- [Yet Another BAN Faucet](
+- [Yet Another BAN Faucet](https://banano-faucet.com/)
 
 ## Exchanges
 ### (Exchanges are roughly sorted by liquidity – highest first)
